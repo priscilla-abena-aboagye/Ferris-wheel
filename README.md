@@ -5,3 +5,7 @@ This project is a visually appealing Ferris wheel created using **HTML** and **C
 ## Technologies Used
 - **HTML**: Structure of the Ferris Wheel.
 - **CSS** : Animation, Transition and styling
+
+-----
+
+## Overview
